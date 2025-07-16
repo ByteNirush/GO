@@ -1,0 +1,8 @@
+create a new main.go and create the following RP game:
+•	Create a player struct(Name and Inventory)
+    o	Inventory is a slice of Item
+•	Create an item struct (Name and Type)
+•	Methods
+•	PickUpItem: Adds an item top a player Inventory
+•	DropItem: Removes an item from the Inventory by name 
+•	UseOItem: Depending on the item - it will print different things 
