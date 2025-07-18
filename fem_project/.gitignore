@@ -1,2 +1,4 @@
 /database
-./database.go/
+./database/
+internal/store/database.go
+docker-compose.yml
