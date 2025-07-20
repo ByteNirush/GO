@@ -2,3 +2,4 @@
 ./database/
 internal/store/database.go
 docker-compose.yml
+/test_database
